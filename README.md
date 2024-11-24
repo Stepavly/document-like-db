@@ -8,7 +8,7 @@
 
 Команда для сборки тестов:
 
-`mkdir build && cd build && cmake --build .. --target main`
+`mkdir build && cd build && cmake .. && cmake --build --target main`
 
 Команда для запуска тестов (из директории `build`):
 
