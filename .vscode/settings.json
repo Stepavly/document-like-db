@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "system_error": "cpp",
+        "filesystem": "cpp",
+        "stdexcept": "cpp",
+        "optional": "cpp",
+        "utility": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp"
+    }
+}
